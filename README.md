@@ -1,4 +1,4 @@
-# Herança 2
+# CLASSE ESTÁTICA
 Exercicio que pede para criar um código que faz conversoes de unidades.
 
 ## Começando
